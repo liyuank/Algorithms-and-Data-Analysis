@@ -32,3 +32,8 @@ void    find_prime_factors(int n)
         j++;
     }
 }
+
+int main(int argc, char **argv)
+{
+    
+}
