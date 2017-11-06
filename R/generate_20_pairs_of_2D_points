@@ -1,0 +1,9 @@
+1) Randomly generate 20 pairs of 2-D points including :
+
+a. 2 sets of randomly generated vectors
+
+b. sorting action based on X-coordinate
+
+2) Implement Closest Distance Algorithm in the class to find out the distance
+
+among the 20 points
