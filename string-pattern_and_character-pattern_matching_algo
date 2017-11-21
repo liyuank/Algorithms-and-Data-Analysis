@@ -1,0 +1,34 @@
+Implementations of string-pattern matching and character matching algorithm.
+
+1) To create a vector of several characters.
+
+
+v <- c(“h”, “e”, “l”)
+
+
+2) To have the user to enter any character to match which index's value, then display
+
+the matching index#.
+
+a_char <- readline(prompt="Enter a character: ")
+
+charmatch(a_char, v)
+
+
+3) To create a long string.
+
+another <- “Today is Monday.”
+
+
+4) To create a 3-character pattern (for example, like: Mon)
+
+pattern <- “Mon”
+
+
+5) To search and match which index # of the long string contains that pattern.
+
+install.packages(“stringr”)
+
+library(stringr)
+
+str_locate(another, pattern)
