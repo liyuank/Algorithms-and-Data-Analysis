@@ -1,0 +1,13 @@
+implememt a simple typical ML in R,
+the object (x, y) is (10, 10)
+the initial (x,y) is (0, 0)
+
+design a code to move up, right, left, down.
+one value -> to calculate which (xi,yi) is the next coordinate.
+
+repeat one more time.
+
+
+function move(initial, step_size)
+{
+  
